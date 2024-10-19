@@ -7,4 +7,4 @@
 - O gráfico de barras deve mostrar as notas no eixo y e os nomes dos alunos no eixo x.
 - O usuário deve ser capaz de visualizar o gráfico e analisar o desempenho dos alunos.
 
-![Tela com as notas](./img\tela-das-notas.png)
+![Tela com as notas](./img/tela-das-notas.png)
